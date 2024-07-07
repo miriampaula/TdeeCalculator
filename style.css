@@ -1,0 +1,18 @@
+body {
+  background-image: url("pic.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#form {
+  background-color: #d1bfbfbf;
+  border-radius: 10px;
+  margin: auto;
+  width: 64%;
+  text-align: center;
+}
+#result {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+}
